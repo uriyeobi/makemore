@@ -1,0 +1,33 @@
+# vscode
+.vscode
+
+# scratch
+scratch/
+
+*chroma/
+*youtube/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.c
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# macOS files
+.DS_Store
+
+# dirvenv files
+.envrc
+
